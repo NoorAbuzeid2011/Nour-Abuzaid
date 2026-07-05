@@ -29,4 +29,4 @@ PL-400 (Power Platform Developer Associate) · AZ-900 (Azure Fundamentals) · Dy
 
 #### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/nourabuzeid/) · Jenin, Palestine · Arabic (native), English (professional)
+[LinkedIn](https://www.linkedin.com/in/nourabuzeid/) · Palestine · Arabic (native), English (professional)
